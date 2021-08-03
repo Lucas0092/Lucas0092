@@ -2,7 +2,7 @@
 
 **Sou desenvolvedor JAVA jr em formação e meu desejo é ensinar a todos sobre programação.**
 
-## **FORMAÇÕES:**
+ **FORMAÇÕES:**
 
 🎓  **Desenvolvedor Fullstack Java Jr- Em formação (GENERATION BRASIL)**
 
@@ -10,7 +10,7 @@
 
 🎓  **Superior Completo em Gestão de Recursos Humanos (UNIVERSIDADE MOGI DAS CRUZES)**
 
-## **REDES SOCIAS**
+ **REDES SOCIAS**
 
 <a href="https://www.linkedin.com/in/lucas-silva-3001289b/" target="_blank">
 <img align="center" alt="Lucas-linkedin" height="60" width="70" src="https://user-images.githubusercontent.com/86319074/127416561-5c812fe9-94cf-41b8-9923-b376e12c3c8f.gif"
@@ -33,7 +33,7 @@ style="max-width:100%;">
 </img>
 
 
-## **CONHECIMENTOS**
+ **CONHECIMENTOS**
 
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -46,7 +46,7 @@ style="max-width:100%;">
 <img alt="Java" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 
-## **SOFTS SKILLS**
+ **SOFTS SKILLS**
 <img src="https://user-images.githubusercontent.com/86319074/127417170-dec4634c-c792-424f-bdf2-57581715af4a.gif" alt="java" width="80" height="90" style="max-
   width:100%;"></img>
   <img src="https://user-images.githubusercontent.com/86319074/127417329-a64735cf-8db2-49f7-aeb2-5642b8e35814.gif" width="80" height="90" style="max-
@@ -54,7 +54,7 @@ style="max-width:100%;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="80" height="90" style="max-
   width:100%;"></img>
   
-  ## **MINHAS INFORMAÇÕES**
+   **MINHAS INFORMAÇÕES**
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas0092&theme=great-gatsby&show_icons=true)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas0092&theme=great-gatsby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
