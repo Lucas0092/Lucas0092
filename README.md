@@ -54,4 +54,12 @@ style="max-width:100%;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="80" height="90" style="max-
   width:100%;"></img>
   
+  ## **MINHAS INFORMAÇÕES**
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas0092&theme=great-gatsby&show_icons=true)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas0092&theme=great-gatsby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+  
   ![Snake animation](https://github.com/Lucas0092/Lucas0092/blob/output/github-contribution-grid-snake.svg)
+  
+  
