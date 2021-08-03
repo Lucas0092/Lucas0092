@@ -1,6 +1,6 @@
-## **Olá eu sou o Lucas, tenho 29 anos e sou de Mogi das Cruzes, São Paulo.**
+**Olá eu sou o Lucas, tenho 29 anos e sou de Mogi das Cruzes, São Paulo.**
 
-## **Sou desenvolvedor JAVA jr em formação e meu desejo é ensinar a todos sobre programação.**
+**Sou desenvolvedor JAVA jr em formação e meu desejo é ensinar a todos sobre programação.**
 
 ## **FORMAÇÕES:**
 
