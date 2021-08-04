@@ -46,7 +46,7 @@ style="max-width:100%;">
 <img alt="Java" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 
- ## **SOFTS SKILLS**
+ ## **SKILLS**
 <img src="https://user-images.githubusercontent.com/86319074/127417170-dec4634c-c792-424f-bdf2-57581715af4a.gif" alt="java" width="80" height="90" style="max-
   width:100%;"></img>
   <img src="https://user-images.githubusercontent.com/86319074/127417329-a64735cf-8db2-49f7-aeb2-5642b8e35814.gif" width="80" height="90" style="max-
